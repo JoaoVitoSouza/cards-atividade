@@ -76,7 +76,7 @@ body {
 
 .cartao__verso {
     background-color: var(--card-back-color);
-    color: #ddb5f8;
+    color: #dca7ff;
     transform: rotateY(180deg);
     text-align: center;
     font-weight: bold;
